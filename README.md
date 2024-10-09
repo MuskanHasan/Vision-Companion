@@ -29,7 +29,9 @@
 - **Raspberry Pi 3B V1.2**: The central processing unit that connects and controls all components.
 - **HC-SR04 Sensor**: Provides distance measurement for obstacle detection.
 - **Buzzer**: Delivers audio alerts and notifications to the user.
+- **Machine Learning Algorithms**: Used for training models to improve object recognition and enhance the overall user experience.
 
+---
 ---
 
 ## 🌍 Impact:
